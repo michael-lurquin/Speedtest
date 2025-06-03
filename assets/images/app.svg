@@ -191,6 +191,14 @@
 		<text id="JitterResultMon" x="17" y="33.46" class="jitter-Mob">--</text>
 		<text id="JitterResultms" x="36" y="33.46" class="rtextmbms">ms</text>
 	</symbol>
+	<symbol id="settings" viewBox="0 0 100 125">
+		<rect fill="transparent" x="0" y="25" width="100" height="50" />
+		<path d="M36.43,29.64,9.29,50,36.43,70.36v6.78L2.5,56.79V43.21L36.43,22.86Z" />
+		<path d="M63.57,70.36,90.71,50,63.57,29.64V22.86L97.5,43.21V56.79L63.57,77.14Z" />
+		<circle cx="29.64" cy="50" r="6.79" />
+		<circle cx="50" cy="50" r="6.79" />
+		<circle cx="70.36" cy="50" r="6.79" />
+	</symbol>
 	<symbol id="playButton" style="fill: #eaeaea" viewBox="0 0 191.255 191.255">
 		<rect width="180" height="90" rx="10" ry="10" class="startButton" />
 		<text class="buttonTxt" x="90" y="60">Start</text>
@@ -368,6 +376,9 @@
 					<use id="startButtonDesk" class="startButton" xlink:href="#playButton" x="125" y="300.6" width="50.2" height="50.2">
 						<title id="title1">Click here to Run a Speed Test! Or Press "Enter"</title>
 					</use>
+					<use id="settingsDesk" class="Startsettings" xlink:href="#settings" x="100" y="260" width="100" height="40">
+						<title id="title1">Options</title>
+					</use>
 					<use class="Desktop" id="ipDesk" xlink:href="#YourIP" x="7" y="70"></use>
 				</g>
 			</svg>
@@ -427,6 +438,9 @@
 					<use id="deskStartMob" class="deskStart" xlink:href="#mainGaugebg" x="11.18" y="12" width="273.94" height="245.39"></use>
 					<use id="startButtonMob" class="startButton" xlink:href="#playButton" x="125" y="280" width="50.2" height="50.2">
 						<title id="title1">Click here to run a speed!</title>
+					</use>
+					<use id="settingsMob" class="Startsettings" xlink:href="#settings" x="100" y="240" width="100" height="40">
+						<title id="title1">Options</title>
 					</use>
 					<use class="Mobile" id="ipMob" xlink:href="#YourIP" x="11" y="49"></use>
 				</g>
