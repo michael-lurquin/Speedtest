@@ -63,7 +63,7 @@ font-weight: 500;
   color: rgb(113, 113, 113);
 }
 .Credits a:hover {
-color: #bdf760;
+color: #000;
 }
 
 .ConnectError {
@@ -186,7 +186,7 @@ color: #bdf760;
 }
 
 .intro-Progress {
-  stroke: #bdf760;
+  stroke: #000;
   stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -194,7 +194,7 @@ color: #bdf760;
   stroke-dashoffset: 0;
 }
 .progressElmstart {
-  stroke: #bdf760;
+  stroke: #000;
   stroke-width: 8px;
   stroke-linecap: round;
   stroke-linejoin: round;
@@ -246,19 +246,19 @@ color: #bdf760;
   text-anchor: end;
 }
 #upSymbolDesk {
-  fill: #bdf760;
+  fill: #000;
   display: none;
 }
 #downSymbolDesk {
-  fill: #bdf760;
+  fill: #000;
   display: none;
 }
 #upSymbolMob {
-  fill: #bdf760;
+  fill: #000;
   display: none;
 }
 #downSymbolMob {
-  fill: #bdf760;
+  fill: #000;
   display: none;
 }
 
@@ -290,7 +290,7 @@ color: #bdf760;
 .spinner > div {
   width: 20px;
   height: 20px;
-  background-color: #bdf760;
+  background-color: #000;
 
   border-radius: 100%;
   display: inline-block;
