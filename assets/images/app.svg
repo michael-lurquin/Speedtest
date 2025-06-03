@@ -446,11 +446,11 @@
 			</svg>
 		</a>
 		<linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-			<stop offset="0%" stop-color="#56c4fb" />
+			<stop offset="0%" stop-color="#bdf760" />
 			<stop offset="100%" stop-color="#0baeff" />
 		</linearGradient>
 		<radialGradient id="RadialGradient1">
-			<stop offset="0%" stop-color="#56c4fb" />
+			<stop offset="0%" stop-color="#bdf760" />
 			<stop offset="100%" stop-color="#0baeff" />
 		</radialGradient>
 	</svg>
