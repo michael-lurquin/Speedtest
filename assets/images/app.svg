@@ -226,9 +226,6 @@
 			<title>Network Error</title>
 		</a>
 	</symbol>
-	<symbol class="Your-IP" viewBox="0 0 300 299.12">
-		<text id="YourIP" transform="translate(140 228) scale(.8 .8)">SpeedTest by OpenSpeedTest™️</text>
-	</symbol>
 	<symbol id="light" viewBox="0 0 512 512">
 		<g>
 			<path
@@ -278,7 +275,7 @@
 		</symbol>
 		<a id="resultsData">
 			<svg class="Desktop" viewBox="0 0 586 346">
-				<title id="title1">HTML5 Network Performance Estimation Tool. by OpenSpeedTest™</title>
+				<title id="title1">HTML5 Network Performance Estimation Tool.</title>
 				<g id="UI-Desk">
 					<use id="mainGaugebg-Desk" class="main-Gaugebg" xlink:href="#mainGaugebg" x="10.28" y="36.11" width="273.94" height="245.39"></use>
 					<use id="mainGaugeBlue-Desk" class="main-GaugeBlue" xlink:href="#mainGaugeBlue" x="10.28" y="36.11" width="273.94" height="245.39"></use>
@@ -385,7 +382,7 @@
 				</g>
 			</svg>
 			<svg class="Mobile" viewBox="0 0 295.9 363.3">
-				<title id="title1">HTML5 Network Performance Estimation Tool. by OpenSpeedTest™</title>
+				<title id="title1">HTML5 Network Performance Estimation Tool.</title>
 				<g id="UI-Mob">
 					<use id="mainGaugebg-Mob" class="main-Gaugebg" xlink:href="#mainGaugebg" x="11.18" y="12" width="273.94" height="245.39"></use>
 					<use id="mainGaugeBlue-Mob" class="main-GaugeBlue" xlink:href="#mainGaugeBlue" x="11.18" y="12" width="273.94" height="245.39"></use>

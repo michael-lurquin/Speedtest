@@ -1008,8 +1008,8 @@ window.onload = function() {
           Show.showStatus("All done");
           var dummyElement = document.createElement("div");
           dummyElement.innerHTML = '<a xlink:href="https://openspeedtest.com?ref=Self-Hosted-Outro&run=5" style="cursor: pointer" target="_blank"></a>';
-          var htmlAnchorElement = dummyElement.querySelector("a");
-          Show.oDoLiveSpeed.el.textContent = ost;
+          // var htmlAnchorElement = dummyElement.querySelector("a");
+          // Show.oDoLiveSpeed.el.textContent = ost;
           var circleSVG = document.getElementById("oDoLiveSpeed");
           htmlAnchorElement.innerHTML = circleSVG.innerHTML;
           circleSVG.innerHTML = dummyElement.innerHTML;
