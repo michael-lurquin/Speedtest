@@ -1011,7 +1011,7 @@ window.onload = function() {
           // var htmlAnchorElement = dummyElement.querySelector("a");
           // Show.oDoLiveSpeed.el.textContent = ost;
           var circleSVG = document.getElementById("oDoLiveSpeed");
-          htmlAnchorElement.innerHTML = circleSVG.innerHTML;
+          // htmlAnchorElement.innerHTML = circleSVG.innerHTML;
           circleSVG.innerHTML = dummyElement.innerHTML;
           // if (location.hostname != myname.toLowerCase() + com) {
           //   saveTestData = "https://" + myname.toLowerCase() + com + "/results/show.php?" + "&d=" + downloadSpeed.toFixed(3) + "&u=" + uploadSpeed.toFixed(3) + "&p=" + pingEstimate + "&j=" + jitterEstimate + "&dd=" + (dataUsedfordl / 1048576).toFixed(3) + "&ud=" + (dataUsedforul / 1048576).toFixed(3) + "&ua=" + userAgentString;
