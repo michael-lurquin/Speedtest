@@ -2,17 +2,17 @@ body {
   background-color: #BEF760;
 }
 #ipDesk {
-  fill: aliceblue;
+  fill: red;
 }
 
 .oDoLive-Speed {
   fill: #ffffff;
 }
 .oDoLive-Status {
-  fill: aliceblue;
+  fill: red;
 }
 #ipMob {
-  fill: aliceblue;
+  fill: red;
 }
 .rtextnum {
   fill: #ffffff;
