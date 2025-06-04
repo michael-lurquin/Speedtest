@@ -41,6 +41,7 @@ body {
   margin: 0px;
   padding: 0px;
   display: block;
+  background-color: #bdf760;
 }
 
 ::-webkit-scrollbar {
@@ -381,4 +382,4 @@ color: #000;
   }
 }
 
-#settingsDesk { display: none }
+#settingsDesk, #settingsMob { display: none }
